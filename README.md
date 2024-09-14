@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Papun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cvrce-game/cvrce-game is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Papun  
+👀 I’m passionate about traveling, exploring new cultures, and learning about different places around the world.  
+🌱 I’m currently learning web development and improving my skills in digital content creation.  
+💞️ I’m looking to collaborate on travel-related projects, content creation, or anything that blends technology with adventure.  
+📫 You can reach me at papun.1424@gmail.com.
